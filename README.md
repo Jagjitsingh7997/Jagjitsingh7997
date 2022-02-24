@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer science engineerging...
 - 🌱 I’m currently learning  c++ language alongwith Html,CSS and javascript etc....
 - 💞️ I’m looking to collaborate on coding project opportunitiee
-- 📫 How to reach me Jagjit Singh 1245
+- 📫 How to reach me at twitter Jagjit Singh 1245
 
 <!---
 Jagjitsingh7997/Jagjitsingh7997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
